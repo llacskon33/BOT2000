@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BOT2000</string>
+    <string name="terminal_hint">Escribe un comando…</string>
+    <string name="send">Enviar</string>
+    <string name="status_running">En línea</string>
+    <string name="status_idle">Inactivo</string>
+</resources>
